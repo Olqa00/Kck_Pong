@@ -1,0 +1,12 @@
+body {
+    font-family: monospace;
+    white-space:pre;
+}
+/*td{
+    border: 1px solid black;
+}*/
+table { border: 1px solid black }
+
+c{
+    color: green;
+}
